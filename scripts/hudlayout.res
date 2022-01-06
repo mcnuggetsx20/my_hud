@@ -960,15 +960,15 @@
 		"tall"			"160"		
 	}
 
-	"HudChat"
+	"HudChat1"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName" 		"HudChat"
+		"fieldName" 		"HudChat1"
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
-		"ypos"			"275"
+		"ypos"			"-4"
 		"wide"	 		"320"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"
